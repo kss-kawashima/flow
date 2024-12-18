@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69fj887nyZ6pLTInAv98-8" value="&lt;font size=&quot;1&quot;&gt;アプリ”キング未登録”に集計先を登録&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="334.98" y="650" width="115.02" height="40" as="geometry" />
+          <mxGeometry x="334.98" y="730" width="115.02" height="40" as="geometry" />
         </mxCell>
         <mxCell id="69fj887nyZ6pLTInAv98-14" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.473;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.479;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="69fj887nyZ6pLTInAv98-5" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry x="-0.0731" y="-20" relative="1" as="geometry">
