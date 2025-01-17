@@ -11,20 +11,20 @@
           <mxGeometry x="314" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="商談" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-1" y="-23" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
             <mxPoint x="373.5" y="260" as="sourcePoint" />
             <mxPoint x="373.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry x="-0.4105" y="-10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="1" y="-180" relative="1" as="geometry">
+            <mxPoint x="30" y="100" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="raGWRWk9vdPD-z-xNatu-13" value="内勤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-5" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="18" relative="1" as="geometry">
-            <mxPoint x="-28" y="28" as="offset" />
+            <mxPoint x="-109" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="業務内容は？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -215,6 +215,9 @@
             <mxPoint x="240" y="620" as="sourcePoint" />
             <mxPoint x="376" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="903R03crYM6r17ahkkN_-41" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
